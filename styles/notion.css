@@ -49,7 +49,7 @@
 }
 
 footer {
-  justify-content: center;
+  justify-content: center!important;
 }
 
 .notion-collection-header {
